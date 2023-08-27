@@ -1,8 +1,8 @@
 ![MasterHead](https://i.kym-cdn.com/entries/icons/original/000/037/367/cover2.jpg)
 
-<h1 align="center">Hi 👋, I'm Kuwushal</h1>
+<h1 align="center"> I'm Kuwushal</h1>
 <h3 align="center">I am a guy trying to do something.</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GB2kusUamFYAAAAC/guts-berserk-guts.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuwushal&label=Profile%20views&color=0e75b6&style=flat" alt="kuwushal" /> </p>
 
