@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **kuwushal1929@gmail.com**
+- 📫 How to reach me **kuwushal1928@gmail.com**
 
-- ⚡ Fun fact **I am**
+- ⚡ Fun fact **I know some Japanese 日本語　(N3)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
