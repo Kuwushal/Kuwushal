@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
-<h3 align="center">Backend-focused developer | Django learner | Builder of practical tools</h3>
+<h3 align="center">Backend developer | API design | Systems & security-focused</h3>
 
 <img align="right" alt="coding" width="360" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
@@ -17,25 +17,26 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning **Django** and backend system design  
-- 🛠️ Build **API-only projects**, developer tools, and CLI utilities  
-- 🧠 Interested in **code analysis, automation, and security tooling**  
-- ✍️ I also like to **write poems** in my free time  
-- 💬 Ask me about **nothing (I mean it)**  
+- 🌱 Focused on **backend development and API architecture**
+- 🛠️ Build **API-only systems** with clean separation of concerns
+- 🔐 Interested in **secure code practices, validation, and backend correctness**
+- ⚙️ Work with **Django, FastAPI**, and supporting backend tools
+- ✍️ I also like to **write poems** in my free time
+- 💬 Ask me about **nothing (I mean it)**
 - 📫 Reach me at **kuwushal1928@gmail.com**
 
 ---
 
 ## 🚀 What I’m Working On
 
-- Designing clean and reusable backend logic  
-- Turning backend projects into **CLI tools**  
-- Writing code that fails loudly and clearly  
-- Learning how real-world APIs are structured and shipped
+- Designing scalable and maintainable backend APIs  
+- Writing predictable, testable business logic  
+- Learning how production-grade backends are structured  
+- Improving security, error handling, and data validation  
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Languages & Backend Tools
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -44,31 +45,29 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-## 📌 Notable Interests
+## 📌 Backend Interests
 
-- Backend correctness over UI polish  
-- Debugging indentation and syntax issues  
-- Writing small tools that solve very specific problems  
-- Mixing logic with creativity (code + poetry)
+- REST API design and consistency  
+- Authentication & authorization flows  
+- Input validation and error handling  
+- Writing code that is boring, correct, and secure  
+- Blending logic with creativity (code + poetry)
 
 ---
 
