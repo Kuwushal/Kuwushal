@@ -73,10 +73,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuwushal&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuwushal&theme=default" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuwushal&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kuwushal&show_icons=true&hide_border=true" alt="GitHub Stats"/>
 </p>
