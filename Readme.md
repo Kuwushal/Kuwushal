@@ -49,10 +49,11 @@ Backend developer focused on API development, backend architecture, and security
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuwushal" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuwushal&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-</p>
+## GitHub Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kuwushal" alt="GitHub Streak"/>
+</p>
 ## Contact
 
 * Email: [kuwushal1928@gmail.com](mailto:kuwushal1928@gmail.com)
