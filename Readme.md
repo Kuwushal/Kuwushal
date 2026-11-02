@@ -1,25 +1,26 @@
 # Kushal Bhattarai
 
-Backend developer focused on API development, backend architecture, and security.
+Backend developer focused on API development, backend architecture, security, and AI-powered applications.
 
 ## About
 
-* Backend development with Python
-* API-focused application development
-* Interested in API design, authentication, authorization, validation, and security
-* Focused on maintainable and predictable backend code
-* Currently working with Django and FastAPI
-* I also write poetry
+- Backend development with Python
+- API-focused application development
+- Interested in API design, authentication, authorization, validation, and security
+- Exploring Large Language Models (LLMs), generative AI, and AI-powered application development
+- Currently learning how to integrate LLMs into applications and build practical AI solutions
+- Currently working with Django and FastAPI
 
 ## Current Focus
 
-* Backend architecture
-* REST API design
-* Authentication and authorization
-* Input validation
-* Error handling
-* Secure backend development
-* Testing and maintainable code
+- Backend architecture
+- REST API design
+- Authentication and authorization
+- Input validation and error handling
+- Secure backend development
+- Testing and maintainable code
+- Learning about LLMs, RAG systems, and generative AI
+- Exploring AI integration and building LLM-powered applications
 
 ## Tech Stack
 
@@ -62,6 +63,14 @@ Backend developer focused on API development, backend architecture, and security
   </a>
 </p>
 
+## AI & LLM Interests
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Generative AI
+- LLM application development
+- AI-powered backend systems
+
 ## GitHub Stats
 
 <div align="center">
@@ -84,5 +93,5 @@ Backend developer focused on API development, backend architecture, and security
 
 ## Contact
 
-* Email: [kuwushal1928@gmail.com](mailto:kuwushal1928@gmail.com)
-* Twitter: https://twitter.com/_greenia_
+- Email: [kuwushal1928@gmail.com](mailto:kuwushal1928@gmail.com)
+- Twitter: https://twitter.com/_greenia_
